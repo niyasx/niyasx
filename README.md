@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Header with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Niyas%20Abdul%20Basheer&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Senior%20Flutter%20Developer%20%7C%20Mobile%20App%20Specialist&descAlignY=51&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Niyas%20Abdul%20Basheer&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Flutter%20%7C%20Mobile%20and%20Web%20App%20Specialist&descAlignY=51&descSize=20" />
 
 <!-- Animated Typing Effect -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Mobile+Developer;💡+Flutter+%26+Dart+Expert;🎯+Building+Digital+Experiences;⚡+Always+Coding%2C+Always+Learning" alt="Typing Animation" />
